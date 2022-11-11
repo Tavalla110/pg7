@@ -33,7 +33,6 @@ namespace pg7
                             gcd = i;
                             break;
                         }
-
                     }
                 }
                 else if (a < b)
@@ -113,7 +112,6 @@ namespace pg7
                         }
                     }
                 }
-
             }
             return lcm;
         }
